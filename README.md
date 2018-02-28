@@ -1,7 +1,7 @@
 Instagram Auto Follow Developer Console Code
 ===
+<img src="https://image.ibb.co/maG55x/ezgif_1_5a03fedf14.gif"/>
 
-<img src="https://image.ibb.co/kYsZyH/ezgif_1_f65c4c3a5a.gif"/>
 
 Code
 -------------
@@ -29,8 +29,9 @@ Code
     
 Github Auto Follow Developer Console Code
 ===
-    
-<img src="https://image.ibb.co/maG55x/ezgif_1_5a03fedf14.gif"/>
+ 
+<img src="https://image.ibb.co/kYsZyH/ezgif_1_f65c4c3a5a.gif"/>
+   
     
 Code
 -------------
